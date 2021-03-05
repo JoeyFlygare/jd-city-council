@@ -28,11 +28,11 @@ export default class Header extends Component {
                   Resume
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a className="smoothscroll" href="#portfolio">
                   Works
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a className="smoothscroll" href="#contact">
                   Contact
@@ -45,7 +45,7 @@ export default class Header extends Component {
             <div className="banner-text">
               <h1 className="responsive-headline">I am {resumeData.name}.</h1>
               <h3 style={{ color: "#fff", fontFamily: "sans-serif " }}>
-                I am a {resumeData.role}.{resumeData.roleDescription}
+                I am the {resumeData.role}.{resumeData.roleDescription}
               </h3>
               <hr />
               <ul className="social">

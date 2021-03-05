@@ -1,10 +1,10 @@
 let resumeData = {
   imagebaseurl: "https://github.com/JoeyFlygare",
-  name: "Joseph Flygare",
-  role: "Fullstack Web Developer/ Software Engineer",
+  name: "JD Elquist",
+  role: "Downtown Tacoma Retail Advocate with the Chamber of Commerce",
   linkedinId: "https://www.linkedin.com/in/joseph-flygare-6611a31b5/",
   roleDescription:
-    " I enjoy using my experience with fullstack to create an immersive user experience, or simply play games in my free time.",
+    " My current role is to bring back vibrancy and life to the downtown area of Tacoma. Through enticing interesting and strong retail businesses to join our beautiful home my hope is to create a renewed love for the downtown area.",
   socialLinks: [
     {
       name: "linkedin",
@@ -14,7 +14,7 @@ let resumeData = {
     {
       name: "github",
       url: "https://github.com/JoeyFlygare",
-      className: "fa fa-github",
+      className: "fa fa-instagram",
     },
     {
       name: "skype",
@@ -23,54 +23,24 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am currently attending a fullstack web development boot camp through University of Washington and Trilogy. I am constantly striving to learn new technologies to make myself as valuable as possible.",
+    "My main goal is to blow up, and act like I don't know nobody!!",
   address: "Tacoma, WA.",
-  website: "https://github.com/JoeyFlygare",
+  website: "",
   education: [
     {
-      UniversityName: "Universtiy of Washington",
-      specialization: "Full-stack Web Development",
-      MonthOfPassing: "February",
-      YearOfPassing: "2021",
-      Achievements: "Certificate in Full-stack Web Development",
+      UniversityName: "Fashion institute of San Francisco",
+      specialization: "Design",
+      MonthOfPassing: "",
+      YearOfPassing: "",
+      Achievements: "",
     },
   ],
-  skillsDescription: "Full-stack Web Dev",
+  skillsDescription: "",
   skills: [
-    {
-      skillname: "HTML5",
-    },
-    {
-      skillname: "CSS",
-    },
-    {
-      skillname: "JavaScript",
-    },
-    {
-      skillname: "React",
-    },
+   
   ],
   portfolio: [
-    {
-      name: "Panda Patter",
-      description: "Flash card Translator app",
-      imgurl: "images/portfolio/image.png",
-    },
-    {
-      name: "The Night Planner",
-      description: "A way to spice up your covid lockdown nights",
-      imgurl: "images/portfolio/night_planner.png",
-    },
-    {
-      name: "JavaScript Knowledge Quiz",
-      description: "Timed quiz",
-      imgurl: "images/portfolio/Capture.PNG",
-    },
-    {
-      name: "Weather Dashboard",
-      description: "A fun little weather dash alternative",
-      imgurl: "images/portfolio/Capture1.PNG",
-    },
+    
   ],
 };
 
