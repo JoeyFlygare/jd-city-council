@@ -8135,6 +8135,14 @@
         display: none
     }
     
+    .top-text  .deck p{
+        color:#000000
+    }
+
+    .top-text h1 {
+        color: #000000;
+    }
+
     .container-navigation {
         max-width: 100%
     }
@@ -10637,7 +10645,7 @@
     }
     
     .topper h1,.topper h2,.topper h3,.topper h4,.topper h5,.topper h6 {
-        color: #fff
+        color: #000000
     }
     
     .topper h1 a {
